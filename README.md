@@ -1,1 +1,1 @@
-# elixir-phoenix
+# It's a repository of Elixir programming
