@@ -1,5 +1,6 @@
-# <img src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4" height="27"> It's a repository of Elixir programming 💧
 <div align="center"><img src="https://files.tecnoblog.net/wp-content/uploads/2022/01/linguagem-elixir-capa-tb-1060x596.png"></div>
+
+# <img src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4" height="27"> It's a repository of Elixir programming 💧
 
 ----
 
